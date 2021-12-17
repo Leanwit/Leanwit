@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm not very active at this moment in this platform, however I usually check issues, repositories and review some pull request. 
+I'm not very active at this moment in this platform; however, I usually check issues, repositories and review some pull request. 
 <!--
 **Leanwit/Leanwit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
